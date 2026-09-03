@@ -78,4 +78,4 @@ Pour signaler un problème, ouvrez une issue sur le dépôt.
 - **Auteur** : RL-INFORMATIQUE / EXOCREATORSHUB  
 - **Discord** : https://discord.gg/3FeWMvWdna
 
-*Fait avec ❤️ pour la communauté Pterodact
+*Fait avec ❤️ pour la communauté Pterodact*

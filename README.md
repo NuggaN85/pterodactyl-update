@@ -1,4 +1,3 @@
-```markdown
 # 🛠️ Script de Maintenance VPS – Pterodactyl
 
 **Par RL-INFORMATIQUE | EXOCREATORSHUB**
@@ -77,9 +76,6 @@ Pour signaler un problème, ouvrez une issue sur le dépôt.
 ## 📞 Contact
 
 - **Auteur** : RL-INFORMATIQUE / EXOCREATORSHUB  
-- **Discord** : [https://discord.gg/3FeWMvWdna]
+- **Discord** : https://discord.gg/3FeWMvWdna
 
----
-
-*Fait avec ❤️ pour la communauté Pterodactyl.*
-```
+*Fait avec ❤️ pour la communauté Pterodact

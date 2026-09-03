@@ -34,7 +34,7 @@ Script Bash automatisé pour la maintenance complète d’un VPS hébergeant le 
 
 1. **Téléchargez le script** sur votre VPS :
    ```bash
-   curl -O https://raw.githubusercontent.com/votre-utilisateur/votre-repo/main/update-pterodactyl.sh
+   curl -O https://raw.githubusercontent.com/NuggaN85/pterodactyl-update/main/update-pterodactyl.sh
    ```
 
 2. **Rendez-le exécutable** :
